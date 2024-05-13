@@ -11,13 +11,13 @@ This configuration list is collected from the list of configurations available o
 
   - **All server**
     ```bash
-    https://github.com/leilali1402/v2rayNG-Config/blob/main/server.txt
+    https://github.com/leilali1402/XRay-Config-Grabber/blob/main/server.txt
     ```
 - **v2rayNG subscription URL**
     ```bash
-    https://raw.githubusercontent.com/leilali1402/v2rayNG-Config/main/sub.txt
+    https://raw.githubusercontent.com/leilali1402/XRay-Config-Grabber/main/sub.txt
     ```
 - **SgerNet subscription URL**
     ```bash
-    https://raw.githubusercontent.com/leilali1402/v2rayNG-Config/main/sub.txt
+    https://raw.githubusercontent.com/leilali1402/XRay-Config-Grabber/main/sub.txt
     ```
